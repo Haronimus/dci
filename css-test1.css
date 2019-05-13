@@ -1,0 +1,29 @@
+body {
+    background-image: url(../Bilder/55869387_3055490811134036_6880445232035397632_n.jpg);
+    background-size: cover; 
+    background-position:center;;
+    background-repeat: no-repeat;
+    margin: 5px;
+    padding: 20px;
+}
+
+p {
+    font-size: 20px;
+    color: #031634; 
+    )
+        ;
+    
+}
+
+article p {
+    color: red;
+    font-style: 'Indie Flower', cursive;
+}
+
+.class1 {
+    color: #033649;
+}
+
+h1.shadow {
+    color: mediumblue;
+}
